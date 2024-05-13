@@ -1,4 +1,4 @@
-![Alt text](https://github.com/cybervortexnexus/cybervortexnexus/blob/main/CyberVortex%20(1).gif)
+
 
 
 - 👋 Hi, I’m @cybervortexnexus
@@ -13,3 +13,5 @@
 cybervortexnexus/cybervortexnexus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Alt text](https://github.com/cybervortexnexus/cybervortexnexus/blob/main/CyberVortex%20(1).gif)
