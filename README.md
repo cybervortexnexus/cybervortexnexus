@@ -1,4 +1,4 @@
-![Alt text](image linkhttps://github.com/cybervortexnexus/cybervortexnexus/blob/main/CyberVortex%20(1).gif)
+![Alt text](https://github.com/cybervortexnexus/cybervortexnexus/blob/main/CyberVortex%20(1).gif)
 
 
 - 👋 Hi, I’m @cybervortexnexus
